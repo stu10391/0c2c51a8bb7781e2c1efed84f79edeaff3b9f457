@@ -1,0 +1,6 @@
+listen="0.0.0.0:31106"
+allowed_connect_ports=[443, 80]
+auth_file="auth.txt"
+auth_type="basic"
+auth_realm="22b62d97c672a6ef06328e4a9bbecc16030793eb"
+forwarded_for_header="delete"
